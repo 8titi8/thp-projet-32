@@ -1,12 +1,9 @@
-require 'class-Game'
-require 'class-Players'
-require 'class-Board'
 require 'pry'
 
-class Boardcase < Board
+module Boardcase
   attr_accessor :status_boardcase
 
-  def initialize
+  def status
     @status_boardcase = " "
   end
 
