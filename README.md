@@ -8,7 +8,8 @@
 	<li><strong>Mathilde Ray</strong> : 06 25 98 18 85</li>
 </ul>
 
-<p> Ce repository présente 4 fichiers (contenant chacun une classe) qui permettent de jouer au jeu du morpion, ici appelé "tic tac toe"</p>
-<p> Le fichier principal est le game.rb, qui initialise les variables et lance le jeu</p>
+<p><strong>ATTENTION</strong> : Ce repository présente 4 fichiers (contenant chacun une classe) qui ne permettent pas à l'instant t de jouer au jeu du morpion, ici appelé "tic tac toe"</p>
+
+<p> Le fichier à exécuter est le <strong>jeu-morpion.rb</strong>, qui lance tout le jeu !</p>
 
 <p>Merci d'avance aux correcteurs !</p>
