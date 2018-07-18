@@ -15,8 +15,8 @@ def perform
   	print " > "
   	answer = gets.chomp.to_s
   	if answer == "ok"
-  		binding.pry
   	  puts "Ok ? Alors c'est reparti !"
+  	  launch_a_game
   	else
       puts "=================================================================="
   	  puts " Merci d'avoir joué !\n A bientôt pour une nouvelle partie ;)"  		
